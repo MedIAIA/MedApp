@@ -1,0 +1,12 @@
+env/
+venv/
+*.pyc
+*./pytest_cache
+*.idea
+__pycache__
+fbapp/static/*.jpg
+app.db
+geckodriver.log
+.cache
+.tox
+migrations
